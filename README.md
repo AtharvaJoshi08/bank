@@ -1,3 +1,2 @@
-
-#The-Sparks-Foundation-Basic-Banking-System-Internship-Project
-In this project,we build bank website using hmml,css,php. 
+# The-Sparks-Foundation-Basic-Banking-System-Internship-Project
+I was supposed to create a basic banking website for the Sparks Foundation as an internship project.
